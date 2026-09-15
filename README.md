@@ -6,5 +6,8 @@ These notes are primarily written for my future self. They are not intended to b
 
 Notes are written while learning, so they may contain mistakes or incomplete understanding.
 
+### Concepts
+- [Privacy Auditing](./concepts/privacy-auditing.md)
+
 ## Recent activity
 Currently I'm working on LLM privacy auditing schemes, approaches and limitations.
