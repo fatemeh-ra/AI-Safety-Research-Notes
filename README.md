@@ -5,3 +5,6 @@ A personal collection of notes on papers, ideas, and experiments in AI security,
 These notes are primarily written for my future self. They are not intended to be comprehensive paper summaries; I focus on the ideas I found useful, surprising, or worth remembering.
 
 Notes are written while learning, so they may contain mistakes or incomplete understanding.
+
+## Recent activity
+Currently I'm working on LLM privacy auditing schemes, approaches and limitations.
