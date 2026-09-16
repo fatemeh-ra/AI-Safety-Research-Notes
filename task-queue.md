@@ -1,8 +1,8 @@
 # Task Queue
 
 ### Privacy Audit
-- Read "Causal Evaluation of Membership Inference Attacks"
-- 0-run audit -- Skim "Privacy Auditing with Zero (0) Training Run"
+- observational audit -- Skim "Panoramia: Privacy auditing of machine learning models without retraining"
+- observational audit -- Skim "Natural identifiers for privacy and data audits in large language models"
 - dp-audit -- Skim "Tight auditing of differentially private machine learning"
 - 0-run audit -- Skim "Scalable membership inference attacks via quantile regression"
 - 0-run audit -- Skim "Did the neurons read your book? document-level membership inference for large language models."
@@ -13,10 +13,11 @@
 - 1-run audit limit -- Skim "How well can differential privacy be audited in one run?"
 - MIA limitation on LLM -- Skim "Membership inference attacks on llms are rushing nowhere (and how to fix it)"
 - Skim "Nob-mias: Non-biased membership inference attacks assessment on large language models with ex-post dataset construction."
-- Skim "Panoramia: Privacy auditing of machine learning models without retraining"
+- 1-run audit -- Skim "Auditing f-differential privacy in one run"
+- > Read "Privacy Auditing with Zero (0) Training Run"
 
 ### Others
-- Read "Training Language Models to Explain Their Own Computations"
+- > Read "Training Language Models to Explain Their Own Computations"
 - Add introspection concept
-- Read "Range Membership Inference Attacks"
+- > Read "Range Membership Inference Attacks"
 - Add MIA concept
