@@ -1,7 +1,6 @@
 # Task Queue
 
 ### Privacy Audit
-- observational audit -- Skim "Panoramia: Privacy auditing of machine learning models without retraining"
 - observational audit -- Skim "Natural identifiers for privacy and data audits in large language models"
 - dp-audit -- Skim "Tight auditing of differentially private machine learning"
 - 0-run audit -- Skim "Scalable membership inference attacks via quantile regression"
