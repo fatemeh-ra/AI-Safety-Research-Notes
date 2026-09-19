@@ -15,3 +15,4 @@ For a given model regardless of the used training safe-guards we need a tool to 
 1. [Causal Evaluation of Membership Inference Attacks](../papers/2026/Even-Causal-MIA.md)
 1. [PANORAMIA: Privacy Auditing of Machine Learning Models without Retraining](../papers/2024/Kazmi_panoramia.md)
 1. [Natural Identifiers for Privacy and Data Audits in Large Language Models](../papers/2026/Rossi-natural-identifiers-privacy-audit.md)
+1. [Tight auditing of differentially private machine learning](../papers/2023/Nasr-dp-audit.md)

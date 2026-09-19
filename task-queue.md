@@ -1,7 +1,6 @@
 # Task Queue
 
 ### Privacy Audit
-- dp-audit -- Skim "Tight auditing of differentially private machine learning"
 - 0-run audit -- Skim "Scalable membership inference attacks via quantile regression"
 - 0-run audit -- Skim "Did the neurons read your book? document-level membership inference for large language models."
 - 1-run audit -- Skim "Enhancing One-run Privacy Auditing with Quantile Regression-Based Membership Inference."
@@ -14,8 +13,16 @@
 - 1-run audit -- Skim "Auditing f-differential privacy in one run"
 - > Read "Privacy Auditing with Zero (0) Training Run"
 
+### Top Researcher Works
+- Skim "Scalable Extraction of Training Data from Aligned, Production Language Models"
+- Skim "The Attacker Moves Second: Stronger Adaptive
+Attacks Bypass Defenses Against LLM
+Jailbreaks and Prompt Injections"
+
 ### Others
 - > Read "Training Language Models to Explain Their Own Computations"
 - Add introspection concept
 - > Read "Range Membership Inference Attacks"
 - Add MIA concept
+- Skim "Measuring Reward-Seeking via Contrastive
+Belief Updates"
