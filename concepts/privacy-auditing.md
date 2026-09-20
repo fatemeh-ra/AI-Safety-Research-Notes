@@ -5,7 +5,7 @@ For a given model regardless of the used training safe-guards we need a tool to 
 **Approaches:**
 
 1. Multi-run: Using classic MIA, training several (hundreds to thousands) reference models per example
-2. One-run: Training only one reference model on a randomized set of examples [1]
+2. One-run: Training only one reference model on a randomized set of examples [1,7]
 3. Zero-run: Audit without training any reference models. Used when training a reference model is not feasible (e.g., LLM privacy auditing) [2,4,5]
 
 
@@ -16,3 +16,4 @@ For a given model regardless of the used training safe-guards we need a tool to 
 1. [PANORAMIA: Privacy Auditing of Machine Learning Models without Retraining](../papers/2024/Kazmi_panoramia.md)
 1. [Natural Identifiers for Privacy and Data Audits in Large Language Models](../papers/2026/Rossi-natural-identifiers-privacy-audit.md)
 1. [Tight auditing of differentially private machine learning](../papers/2023/Nasr-dp-audit.md)
+1. [Scalable membership inference attacks via quantile regression](../papers/2023/Betran_mia.md)
