@@ -1,7 +1,6 @@
 # Task Queue
 
 ### Privacy Audit
-- 0-run audit -- Skim "Scalable membership inference attacks via quantile regression"
 - 0-run audit -- Skim "Did the neurons read your book? document-level membership inference for large language models."
 - 1-run audit -- Skim "Enhancing One-run Privacy Auditing with Quantile Regression-Based Membership Inference."
 - 1-run audit -- Skim "Auditing f-differential privacy in one run."

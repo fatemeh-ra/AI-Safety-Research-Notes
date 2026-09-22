@@ -5,8 +5,8 @@ For a given model regardless of the used training safe-guards we need a tool to 
 **Approaches:**
 
 1. Multi-run: Using classic MIA, training several (hundreds to thousands) reference models per example
-2. One-run: Training only one reference model on a randomized set of examples [1,7]
-3. Zero-run: Audit without training any reference models. Used when training a reference model is not feasible (e.g., LLM privacy auditing) [2,4,5]
+2. One-run: Training only one reference model on a randomized set of examples [1]
+3. Zero-run: Audit without training any reference models. Used when training a reference model is not feasible (e.g., LLM privacy auditing) [2,4,5,7]
 
 
 ### Papers
