@@ -8,6 +8,7 @@ Notes are written while learning, so they may contain mistakes or incomplete und
 
 ### Concepts
 - [Privacy Auditing](./concepts/privacy-auditing.md)
+- [Faithfulness](./concepts/faithfulness.md)
 
 ## Recent activity
 Currently I'm working on LLM privacy auditing schemes, approaches and limitations.
