@@ -13,9 +13,6 @@
 - > Read "Privacy Auditing with Zero (0) Training Run"
 
 ### Top Researcher Works
-- Skim "The Attacker Moves Second: Stronger Adaptive
-Attacks Bypass Defenses Against LLM
-Jailbreaks and Prompt Injections"
 - Skim "LLMs can’t jump"
 - Read "Scalable Extraction of Training Data from (Production) Language Models"
 
