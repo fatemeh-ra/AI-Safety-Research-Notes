@@ -1,7 +1,6 @@
 # Task Queue
 
 ### Privacy Audit
-- 0-run audit -- Skim "Did the neurons read your book? document-level membership inference for large language models."
 - 1-run audit -- Skim "Enhancing One-run Privacy Auditing with Quantile Regression-Based Membership Inference."
 - 1-run audit -- Skim "Auditing f-differential privacy in one run."
 - multi-run mia -- Skim "Exploring the limits of strong membership inference attacks on large language models"
@@ -10,7 +9,7 @@
 - MIA limitation on LLM -- Skim "Membership inference attacks on llms are rushing nowhere (and how to fix it)"
 - Skim "Nob-mias: Non-biased membership inference attacks assessment on large language models with ex-post dataset construction."
 - 1-run audit -- Skim "Auditing f-differential privacy in one run"
-- > Read "Privacy Auditing with Zero (0) Training Run"
+- Skim "Membership Inference Attacks against Language Models via Neighbourhood Comparison"
 
 ### Top Researcher Works
 - Read "Scalable Extraction of Training Data from (Production) Language Models"
