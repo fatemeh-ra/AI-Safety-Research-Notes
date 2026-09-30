@@ -13,7 +13,6 @@
 - > Read "Privacy Auditing with Zero (0) Training Run"
 
 ### Top Researcher Works
-- Skim "LLMs can’t jump"
 - Read "Scalable Extraction of Training Data from (Production) Language Models"
 
 
