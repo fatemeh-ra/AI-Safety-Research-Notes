@@ -17,3 +17,4 @@ For a given model regardless of the used training safe-guards we need a tool to 
 1. [Natural Identifiers for Privacy and Data Audits in Large Language Models](../papers/2026/Rossi-natural-identifiers-privacy-audit.md)
 1. [Tight auditing of differentially private machine learning](../papers/2023/Nasr-dp-audit.md)
 1. [Scalable membership inference attacks via quantile regression](../papers/2023/Betran_mia.md)
+1. [Auditing f -Differential Privacy in One Run](../papers/2024/Mahloujifar_privacy_audit.md)
