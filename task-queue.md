@@ -1,7 +1,6 @@
 # Task Queue
 
 ### Privacy Audit
-- 1-run audit -- Skim "Auditing f-differential privacy in one run."
 - multi-run mia -- Skim "Exploring the limits of strong membership inference attacks on large language models"
 - 1-run audit limit -- Skim "Privacy audit as bits transmission: (im)possibilities for audit by one run"
 - 1-run audit limit -- Skim "How well can differential privacy be audited in one run?"
