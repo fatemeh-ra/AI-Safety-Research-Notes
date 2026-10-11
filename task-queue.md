@@ -11,6 +11,8 @@
 - Skim "Membership Inference Attacks against Language Models via Neighbourhood Comparison"
 
 ### Top Researcher Works
+- Skim "Protecting against simultaneous data poisoning attacks"
+- Skim "Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning"
 - Read "Scalable Extraction of Training Data from (Production) Language Models"
 - Skim "Stealing Machine Learning Models via Prediction APIs"
 - Skim "Defeating Prompt Injections by Design"
@@ -25,5 +27,4 @@
 - Add introspection concept
 - > Read "Range Membership Inference Attacks"
 - Add MIA concept
-- Skim "Measuring Reward-Seeking via Contrastive
-Belief Updates"
+- Skim "Measuring Reward-Seeking via Contrastive Belief Updates"
