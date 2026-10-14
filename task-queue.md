@@ -11,8 +11,8 @@
 - Skim "Membership Inference Attacks against Language Models via Neighbourhood Comparison"
 
 ### Top Researcher Works
-- Skim "Protecting against simultaneous data poisoning attacks"
-- Skim "Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning"
+- Skim "Benchmarking Membership Privacy Risks in Preference-Based LLM Post-Training"
+- Skim "Auditing Privacy Leakage in Tabular Foundation Model Embeddings"
 - Read "Scalable Extraction of Training Data from (Production) Language Models"
 - Skim "Stealing Machine Learning Models via Prediction APIs"
 - Skim "Defeating Prompt Injections by Design"
@@ -20,6 +20,7 @@
 - Skim "Blind baselines beat membership inference attacks for foundation models"
 - Skim "Membership Inference Attacks on Sequence Models"
 - Skim "Position: Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data"
+- Skim "Be careful when fine-tuning on open-source llms: Your fine-tuning data could be secretly stolen!"
 
 
 ### Others
