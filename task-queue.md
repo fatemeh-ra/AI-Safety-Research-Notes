@@ -9,9 +9,10 @@
 - Skim "Nob-mias: Non-biased membership inference attacks assessment on large language models with ex-post dataset construction."
 - 1-run audit -- Skim "Auditing f-differential privacy in one run"
 - Skim "Membership Inference Attacks against Language Models via Neighbourhood Comparison"
+- Skim "Do membership inference attacks work on large language models?"
+- Skim "Copyright traps for large language models."
 
 ### Top Researcher Works
-- Skim "Benchmarking Membership Privacy Risks in Preference-Based LLM Post-Training"
 - Skim "Auditing Privacy Leakage in Tabular Foundation Model Embeddings"
 - Read "Scalable Extraction of Training Data from (Production) Language Models"
 - Skim "Stealing Machine Learning Models via Prediction APIs"
