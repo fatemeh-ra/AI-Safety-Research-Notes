@@ -4,7 +4,7 @@
 
 ## Quick Notes
 
-- With a known member set, generates non-member data with a generative model trained on members
+- With a known member set, generates synthetic non-member data with a generative model trained on members
 - Bypass the limitations of the 1-run privacy audit and estimate the privacy loss of model (but not a lower-bound)without training or changing altering pipeline
 - Trains two classifiers; a baseline that only sees members/non-members data and outputs the membership probability, and Panoramia classifier that see data points and their corespondent loss
 
