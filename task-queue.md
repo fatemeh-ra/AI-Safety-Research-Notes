@@ -11,6 +11,13 @@
 - Skim "Membership Inference Attacks against Language Models via Neighbourhood Comparison"
 - Skim "Do membership inference attacks work on large language models?"
 - Skim "Copyright traps for large language models."
+- Skim "Shift-aware score transport for privacy auditing without retraining"
+
+### Introspection
+- Skim "Monitoring Monitorability"
+- Skim "Compressing chain-of-thought into continuous space via self-distillation"
+- Skim "SIM-CoT: Supervised Implicit Chain-of-Thought"
+
 
 ### Top Researcher Works
 - Skim "Auditing Privacy Leakage in Tabular Foundation Model Embeddings"
