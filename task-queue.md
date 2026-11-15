@@ -18,6 +18,9 @@
 - Skim "Compressing chain-of-thought into continuous space via self-distillation"
 - Skim "SIM-CoT: Supervised Implicit Chain-of-Thought"
 
+### Memorization
+- Rethinking LLM Memorization through the Lens of Adversarial Compression
+
 
 ### Top Researcher Works
 - Skim "Auditing Privacy Leakage in Tabular Foundation Model Embeddings"
